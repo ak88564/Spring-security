@@ -1,4 +1,0 @@
-com\security\App.class
-com\security\models\User.class
-com\security\services\UserService.class
-com\security\Controller\UserController.class
